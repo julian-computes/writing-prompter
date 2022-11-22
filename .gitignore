@@ -1,2 +1,6 @@
-data/*
-!data/.gitkeep
+src/main/resources/data/*
+!src/main/resources/data/.gitkeep
+
+.idea/*
+target/*
+venv
